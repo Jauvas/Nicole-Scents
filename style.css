@@ -306,12 +306,11 @@ ul{
     width: 28px;
     margin-left: 20px;
 }
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 360px){
     nav ul {
         position: absolute;
         top:70px;
         left: 0;
-        background: #333;
         width: 100%;
     }
 }
@@ -321,7 +320,6 @@ ul{
         position: absolute;
         top:100px;
         left: 0;
-        background: #333;
         width: 100%;
     }
 
